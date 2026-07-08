@@ -8,16 +8,16 @@ import java.util.Scanner;
 public class Question3 {
     public static void main(String[] args ){
         // seeking input 
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         // asking for name 
         System.out.println("Enter your name:");
         // getting name
-        String name= scanner.nextLine();
+        String name= sc.nextLine();
         // Printing the input name
         System.out.println("Hi, " + name + ". How are you beautiful?" );
 
 
-        scanner.close();
+        sc.close();
     }
     
 }

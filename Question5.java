@@ -24,7 +24,7 @@ public class Question5 {
         System.out.println("b as " + b);
         
 
-scanner.close();
+        scanner.close();
 
     }
     

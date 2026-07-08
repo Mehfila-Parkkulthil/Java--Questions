@@ -4,15 +4,16 @@
 | :--- |:---|:---|
 | 1 | Create an output saying Hello world|[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question1.java) | 
 | 2 |Reverse right half pyramid using  print statement |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question2.java) | 
-| 3 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question3.java) | 
-| 4 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question4.java) | 
-| 5 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question5.java) | 
-| 6 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question6.java) | 
-| 7 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question7.java) | 
-| 8 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question8.java) |
-| 9 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question9.java) |
-| 10 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question10.java) |
-| 11 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question11.java) |
+| 3 |Ask name as input and greet "Hi (name) . How are you beautiful?" |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question3.java) | 
+| 4 | Create a program to add two numbers |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question4.java) | 
+
+| 5 |  Create a program to swap two numbers|[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question5.java) | 
+| 6 |Create a program that takes two numbers and shows result of all arithmetic operations |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question6.java) | 
+| 7 |Calculate perimeter of a rectangle |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question7.java) | 
+| 8 |Calculate area of triangle |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question8.java) |
+| 9 | Create a program to calculate simple interest|[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question9.java) |
+| 10 |Create a program to convert temperature from Celsius to Fahrenheit |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question10.java) |
+| 11 |Create a program to convert temperature from Fahrenheit to Celsius  |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question11.java) |
 | 12 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question12.java) |
 | 13 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question13.java) |
 | 14 | |[Click Here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question14.java) |

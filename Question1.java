@@ -1,12 +1,11 @@
 /*   Question 1 
-    Create an output saying Hello world 
+    Create a class to output “good morning” using a text
+    editor and check output.
  */
 
-
-public class Question1 {
-     public static void main (String[] args){
-        System.out.print("Hello world");
+public class Question1{
+    public static void main(String[]args){
+        System.out.println("Good Morning");
     }
-    
 }
  
