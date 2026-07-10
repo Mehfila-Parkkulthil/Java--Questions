@@ -2,6 +2,7 @@
 <p>A collection of Java programming questions and solutions completed while my learning and practicing Java fundamentals. 
   This repositary serves as my personal coding journey to improve coding problem solving skills , understand core java concepts, and prepare for coding interviews.
 </p>
+
 ## About 
 <p>This repo contains java questions ranging from beginner to intermediate level . This repo is a part of my coding journey purely build to improve my coding knowledge and deeper understanding
 of java fundamentals. This repo will keep growing as I learn new concepts and solve new problems.</p>
