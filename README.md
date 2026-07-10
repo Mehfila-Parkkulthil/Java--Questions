@@ -32,8 +32,10 @@ Sorting Algorithms
 Miscellaneous Practice Questions
 
 ## Quesitons
+|Qno.|Question|Link|Topic|
 |:--:|:---:|:---:|:---:|
-|Qno.1||||
+||||
+
 ## Technologies Used
 Java
 JDK
