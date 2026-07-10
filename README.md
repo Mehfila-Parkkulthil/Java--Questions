@@ -6,7 +6,7 @@
 <p>This repo contains java questions ranging from beginner to intermediate level . This repo is a part of my coding journey purely build to improve my coding knowledge and deeper understanding
 of java fundamentals. This repo will keep growing as I learn new concepts and solve new problems.</p>
 
-##Topics Covered
+## Topics Covered
 Variables and Data Types
 Input and Output
 Operators
@@ -31,6 +31,9 @@ Searching Algorithms
 Sorting Algorithms
 Miscellaneous Practice Questions
 
+## Quesitons
+|:--:|:---:|:---:|:---:|
+|Qno.1||||
 ## Technologies Used
 Java
 JDK
@@ -43,4 +46,6 @@ This repository is updated regularly as I solve new Java questions and explore a
 ## Contributions
 This repository is primarily for my personal learning. However, suggestions for improving code quality, efficiency, or best practices are always welcome.
  If you found this repository usefulIf this repository helps you in your Java learning journey, consider giving it a ⭐ on GitHub.
+
+
 
