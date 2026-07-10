@@ -8,29 +8,26 @@
 of java fundamentals. This repo will keep growing as I learn new concepts and solve new problems.</p>
 
 ## Topics Covered
-Variables and Data Types
-Input and Output
-Operators
-Conditional Statements (if, if-else, switch)
-Loops (for, while, do-while)
-Pattern Printing
-Functions / Methods
-Arrays
-Strings
-Object-Oriented Programming (OOP)
-Constructors
-Inheritance
-Polymorphism
-Encapsulation
-Abstraction
-Interfaces
-Exception Handling
-Collections Framework
-File Handling
-Recursion
-Searching Algorithms
-Sorting Algorithms
-Miscellaneous Practice Questions
+<li>Variables and Data Types</li>
+<li>Input and Output</li>
+<li>Operators</li>
+<li>Conditional Statements (if, if-else, switch)</li>
+<li>Loops (for, while, do-while)</li>
+<li>Pattern Printing</li>
+<li>Functions / Methods</li>
+<li>Arrays</li>
+<li>Object-Oriented Programming (OOP)</li>
+<li>Strings</li>
+<liInheritance></li>
+<liPolymorphism></li>
+<li>Constructors</li>
+<li>Encapsulation</li>
+<li>Abstraction</li>
+<li>Interfaces</li>
+<li>Exception Handling</li>
+<li>Collections Framework</li>
+<li>File Handling</li>
+<li>Recursion</li>
 
 ## Quesitons
 |Qno.|Question|Link|Topic|
