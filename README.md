@@ -32,8 +32,7 @@ of java fundamentals. This repo will keep growing as I learn new concepts and so
 ## Quesitons
 |Qno.|Question|Link|Topic|
 |:--:|:---:|:---:|:---:|
-|1|Create a class to output “good morning” using a text
-    editor and check output.|https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question1.java|Output|
+|1|Create a class to output “good morning” using a text editor and check output.|https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question1.java|Output|
 | 2 | |  https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question2.java ||
 | 3 | |  https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question3.java ||
 | 4 | |  https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question4.java ||
