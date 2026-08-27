@@ -33,18 +33,18 @@ of java fundamentals. This repo will keep growing as I learn new concepts and so
 |Qno.|Question|Link|Topic|
 |:--:|:---:|:---:|:---:|
 |1|Create a class to output “good morning” using a text editor and check output.|[Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question1.java)|Output|
-| 2 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question2.java) ||
-| 3 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question3.java) ||
-| 4 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question4.java) ||
-| 5 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question5.java) ||
-| 6 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question6.java) ||
-| 7 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question7.java) ||
-| 8 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question8.java) ||
-| 9 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question9.java) ||
-| 10 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question10.java) ||
-| 11 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question11.java) ||
-| 12 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question12.java) ||
-| 13 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question13.java) ||
+| 2 |Show the following pattern |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question2.java) ||
+| 3 |Ask name as input and greet "Hi (name) . How are you beautiful?" |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question3.java) ||
+| 4 | Create a program to add two numbers |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question4.java) ||
+| 5 | Create a program to swap two numbers |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question5.java) ||
+| 6 | Create a program that takes two numbers and shows result of all arithmetic operations |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question6.java) ||
+| 7 |Calculate perimeter of a rectangle |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question7.java) ||
+| 8 |Calculate area of triangle |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question8.java) ||
+| 9 |Create a program to calculate simple interest |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question9.java) ||
+| 10 |Create a program to convert temperature from Celsius to Fahrenheit |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question10.java) ||
+| 11 | Create a program to convert temperature from Fahrenheit to Celsius |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question11.java) ||
+| 12 |Create a program to check if a number is positive or negative |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question12.java) ||
+| 13 |Print a new line |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question13.java) ||
 | 14 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question14.java) ||
 | 15 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question15.java) ||
 | 16 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question16.java) ||
@@ -91,13 +91,13 @@ of java fundamentals. This repo will keep growing as I learn new concepts and so
 | 57 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question57.java) ||
 | 58 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question58.java) ||
 | 59 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question59.java) ||
-| 60 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question60.java) ||
-| 61 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question61.java) ||
-| 62 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question62.java) ||
-| 63 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question63.java) ||
-| 64 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question64.java) ||
-| 65 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question65.java) ||
-| 66 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question66.java) ||
+| 60 |Array Creation using function |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question60.java) |Array|
+| 61 |Array Searching and capturing at all position to check repetition |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question61.java) |Array|
+| 62 |Array Searching and capturing the first position the number found |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question62.java) |Array|
+| 63 |Array Searching and capturing the first position the number found , without mentioning not found |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question63.java) |Array|
+| 64 |Array Traversal |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question64.java) ||
+| 65 | Create a program to find sum and average of all elemeents in an array using fuction|  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question65.java) ||
+| 66 |Create a program to find the no of occurances of an element in an array |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question66.java) ||
 | 67 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question67.java) ||
 | 68 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question68.java) ||
 | 69 | |  [Click here](https://github.com/Mehfila-Parkkulthil/Java--Questions/blob/main/Question69.java) ||
